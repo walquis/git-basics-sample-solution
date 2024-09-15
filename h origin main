@@ -1,0 +1,62 @@
+* [33m685b2c5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m map change
+* [33m1bc763b[m[33m ([m[1;32mnew-branch[m[33m)[m Added .idea to .gitignore
+*   [33me96947f[m Merge branch 'main' into flex Fixed syntax error in index.html (added slash where a closing div was probably intended)
+[32m|[m[33m\[m  
+[32m|[m *   [33md0095aa[m Merge branch 'padding-border-margin' into main
+[32m|[m [34m|[m[35m\[m  
+[32m|[m [34m|[m * [33m4e46c64[m Add the class refs to the Sol image.  Tweak the CSS a bit.
+[32m|[m [34m|[m * [33meeafe14[m Added one-column style for Sol image width
+[32m|[m * [35m|[m [33m9c6c222[m defined the css class to add 'Caesar Dressing' font to h1 HTML tags
+[32m|[m * [35m|[m [33m97b4162[m Update the head section in the layouts with stylesheet ref to Caesar Dressing font
+[32m|[m [35m|[m[35m/[m  
+* [35m|[m [33m1b960d8[m Apply the display-flex CSS to the planets
+* [35m|[m [33mf3c9add[m Make the CSS classes ffor putting planets in flex display.
+[35m|[m[35m/[m  
+*   [33m434e70c[m Merge branch 'more-about' into main
+[36m|[m[1;31m\[m  
+[36m|[m * [33m4c461a9[m Added some more about text.
+* [1;31m|[m   [33m2d317dc[m Merge branch 'main'
+[1;32m|[m[1;33m\[m [1;31m\[m  
+[1;32m|[m * [1;31m|[m [33medf15c5[m Merge branch 'main'
+[1;32m|[m [1;34m|[m[1;31m\[m[1;31m|[m 
+[1;32m|[m [1;34m|[m *   [33mbf2003a[m Merge branch 'main'
+[1;32m|[m [1;34m|[m [1;36m|[m[31m\[m  
+[1;32m|[m [1;34m|[m * [31m|[m [33mb4b184b[m Add the planet images
+[1;32m|[m [1;34m|[m * [31m|[m   [33maf8591d[m Merge branch 'main'
+[1;32m|[m [1;34m|[m [32m|[m[33m\[m [31m\[m  
+[1;32m|[m [1;34m|[m * [33m|[m [31m|[m [33m30e4052[m planet list, no images yet
+[1;32m|[m * [33m|[m [33m|[m [31m|[m [33m48cf840[m More help text, by Ned
+[1;32m|[m [31m|[m [33m|[m[31m_[m[33m|[m[31m/[m  
+[1;32m|[m [31m|[m[31m/[m[33m|[m [33m|[m   
+[1;32m|[m * [33m|[m [33m|[m   [33m65fdf01[m Merge branch 'main'
+[1;32m|[m [34m|[m[35m\[m [33m\[m [33m\[m  
+[1;32m|[m * [35m|[m [33m|[m [33m|[m [33m4119092[m add subway map of solar system
+[1;32m|[m [33m|[m [35m|[m[33m/[m [33m/[m  
+[1;32m|[m [33m|[m[33m/[m[35m|[m [33m|[m   
+* [33m|[m [35m|[m [33m|[m [33m5e1d8be[m more faq text
+[33m|[m [33m|[m[33m_[m[35m|[m[33m/[m  
+[33m|[m[33m/[m[33m|[m [35m|[m   
+* [33m|[m [35m|[m   [33ma6a60f7[m Merge branch 'main'
+[35m|[m[1;31m\[m [33m\[m [35m\[m  
+[35m|[m [1;31m|[m[35m_[m[33m|[m[35m/[m  
+[35m|[m[35m/[m[1;31m|[m [33m|[m   
+[35m|[m * [33m|[m [33maa7f0ba[m Change 'Hello World' to 'Hello Sol'. Add a sun image.
+[35m|[m [33m|[m[33m/[m  
+* [33m/[m [33mda56c38[m Add some CSS styling
+[33m|[m[33m/[m  
+* [33m4b50701[m Ummm, did anybody see my layout changes before merging back to main?  Fixed up the layout's menu to accommodate page adds.  Also, added some divs for future styling
+*   [33m2fd2dd1[m Merge branch 'main'
+[1;32m|[m[1;33m\[m  
+[1;32m|[m *   [33m95cf406[m Merge branch 'main'
+[1;32m|[m [1;34m|[m[1;35m\[m  
+[1;32m|[m [1;34m|[m *   [33mdc51f21[m Merge branch 'main'
+[1;32m|[m [1;34m|[m [1;36m|[m[31m\[m  
+[1;32m|[m [1;34m|[m [1;36m|[m * [33m481c4b7[m Add layout to pages so far (help and index)
+[1;32m|[m [1;34m|[m * [31m|[m [33m99fc3b8[m about page
+[1;32m|[m [1;34m|[m [31m|[m[31m/[m  
+[1;32m|[m [1;34m|[m * [33mb0dd452[m help page
+[1;32m|[m * [31m|[m [33m68ad580[m map page
+[1;32m|[m [31m|[m[31m/[m  
+* [31m/[m [33m393cd9f[m faq page
+[31m|[m[31m/[m  
+* [33m1d878a1[m Hello World

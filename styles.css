@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: #000066;
+  background-color: orangered;
 }
 
 a {
@@ -8,11 +8,11 @@ a {
 }
 
 h1 {
-  font-family: 'Caesar Dressing', cursive;
+  font-family: 'Really Funny', ui-rounded;
 }
 
 h1, h2, p, .menu-sep {
-  color: white;
+  color: black;
 }
 
 .planets-container {
@@ -33,10 +33,12 @@ h1, h2, p, .menu-sep {
 .one-column {
   width: 100%;
   padding: 20px;
-  border: 5px solid black;
+  border: 12px solid white;
   margin: 20px;
 }
 
 img {
   width: inherit;
 }
+
+'hi there.. this is ben change'
